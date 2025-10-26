@@ -1,0 +1,6 @@
+mkdir my-crypto-project
+cd my-crypto-project
+npm init -y
+npm install --save-dev hardhat
+npx hardhat   # выбери "create a basic sample project"
+npm install @openzeppelin/contracts ethers dotenv

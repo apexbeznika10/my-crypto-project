@@ -1,0 +1,13 @@
+my-crypto-project/
+├─ contracts/
+│  └─ MyToken.sol
+├─ scripts/
+│  └─ deploy.js
+├─ test/
+│  └─ token.test.js
+├─ frontend/
+│  └─ (React app)
+├─ .github/workflows/ci.yml
+├─ hardhat.config.js
+├─ package.json
+└─ README.md
